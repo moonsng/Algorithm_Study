@@ -3,7 +3,5 @@ function solution(n, k) {
     for(let i = k; i <= n; i += k){
           arr.push(i)
     }
-  
-    console.log(arr)
     return arr
 }
