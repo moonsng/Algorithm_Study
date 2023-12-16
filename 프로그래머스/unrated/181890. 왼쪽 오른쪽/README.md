@@ -1,10 +1,10 @@
 # [level unrated] 왼쪽 오른쪽 - 181890 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181890) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=javascript) 
 
 ### 성능 요약
 
-메모리: 33.3 MB, 시간: 0.05 ms
+메모리: 33.4 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 6일 16:35:17
+2023년 12월 6일 16:36:51
 
 ### 문제 설명
 
