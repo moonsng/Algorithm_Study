@@ -1,10 +1,10 @@
 # [level unrated] 순서 바꾸기 - 181891 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181891) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181891?language=javascript) 
 
 ### 성능 요약
 
-메모리: 33.6 MB, 시간: 4.24 ms
+메모리: 33.4 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 12월 6일 16:27:57
+2023년 12월 6일 16:33:11
 
 ### 문제 설명
 
