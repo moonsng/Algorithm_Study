@@ -1,12 +1,7 @@
-def solution(myString, pat):    
-    start = 0
+def solution(myString, pat):
     cnt = 0
-    
-    while True:
-        idx = myString.find(pat, start)
-        if idx == -1:
-            break
-        cnt += 1
-        start = idx + 1
-    
+    for i in range(len(myString)-len(pat)+1):
+        if myString[i:i+len(pat)] == pat:
+            cnt += 1
+
     return cnt
